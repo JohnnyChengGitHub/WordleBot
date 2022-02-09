@@ -1,0 +1,11 @@
+Wordle rules:
+The word exists and is 5 letters.
+Knowledge is built upon guesses. You gain more knowledge after each guess. 
+
+Guess 1: If black, does not exist in the word. Remove all words from word bank that have that letter. 
+If green, exists in that position (could exist multiple times). If yellow, exists in the word (could exist multiple times). 
+Ex: Crane
+    b g g b g
+Guess 2: After eliminating C & N, this can be the follow guess:
+
+(A-Z exclusive of C & N) R A (A-Z exclusive of C & N) E
