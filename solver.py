@@ -65,7 +65,7 @@ def black_letters(guess,hidden_word, black):
         
     return "".join(black)
 
-## Yellow
+## Yellow Not Done
 
 def yellow_letters(guess,hidden_word, yellow):
     
