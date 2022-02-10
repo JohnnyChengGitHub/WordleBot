@@ -1,0 +1,3 @@
+- Unique gray letters that do not match hidden word will not appear in rest of Wordle
+- Green letters indicate exact same matching string location of hidden word
+	-Yellow letters indicate the current letters exists somewhere else in the list that is not in the green position
